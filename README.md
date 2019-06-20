@@ -1,5 +1,5 @@
 # Toko Online YAIShop
-Toko Online Batik dengan Native PHP + MySql
+Toko Online Elektronik dengan Native PHP + MySql
 
 Langkah untuk dapat menggunakan Website ini :
 1. Download atau clone repository.
